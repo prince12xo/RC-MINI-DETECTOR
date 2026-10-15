@@ -26,4 +26,3 @@ An autonomous/RC hybrid scout vehicle built with inductive proximity sensing, dy
 ├── GPIO 12 ──────────► L298N IN4 (Motor B Reverse)
 ├── GPIO 34 (ADC) ────► Proximity Sensor Signal (Voltage Divider Protected)
 └── 3.3V / GND ───────► Sensor Power / Common Ground Bridge
-cjfnuccj ttfccitffucjn4rfc
