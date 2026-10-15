@@ -1,1 +1,9 @@
-.
+Item,Description,Qty,Estimated Cost (USD)
+ESP32 Dev Board,WiFi/BT Microcontroller Core,1,$6.00
+L298N Motor Driver,Dual H-Bridge DC Motor Driver Module,1,$4.00
+Inductive Proximity Sensor,LJ12A3-4-Z/BX NPN Metal Detection Sensor,2,$8.00
+DC Geared Motors,12V High-Torque TT Motors with Wheels,4,$12.00
+18650 Li-Ion Batteries & Holder,3S 12V Battery Pack Power Supply,1,$15.00
+Chassis Frame & Hardware,Custom 3D Printed / Acrylic Plates & Fasteners,1,$20.00
+Tether Cable & Connectors,High-Flex Wire & Dupont Jumper Wire Set,1,$5.00
+Total,,, $70.00
