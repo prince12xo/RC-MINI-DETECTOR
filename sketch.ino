@@ -52,4 +52,3 @@ void stopMotors() {
   digitalWrite(IN4, LOW);
 }
     // testing sync
-dkxunennndccc7jnnwkfoc7nn5ngvudjbelfgtnciekwg
