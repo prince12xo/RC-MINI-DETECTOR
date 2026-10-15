@@ -16,13 +16,3 @@ An autonomous/RC hybrid scout vehicle built with inductive proximity sensing, dy
 ---
 
 
-## 🔌 Circuit Pinout & Wiring Topology
-
-```text
-[ ESP32 Board ]
-├── GPIO 26 ──────────► L298N IN1 (Motor A Forward)
-├── GPIO 27 ──────────► L298N IN2 (Motor A Reverse)
-├── GPIO 14 ──────────► L298N IN3 (Motor B Forward)
-├── GPIO 12 ──────────► L298N IN4 (Motor B Reverse)
-├── GPIO 34 (ADC) ────► Proximity Sensor Signal (Voltage Divider Protected)
-└── 3.3V / GND ───────► Sensor Power / Common Ground Bridge
