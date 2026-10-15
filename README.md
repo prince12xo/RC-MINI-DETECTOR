@@ -1,4 +1,4 @@
-# RC-MINI-DETECTOR
+# RC-MINE-DETECTOR
 # RC Mine Detector — Tethered Scout Vehicle
 
 An autonomous/RC hybrid scout vehicle built with inductive proximity sensing, dynamic motor speed modulation, and real-time telemetry output for landmine detection in hazardous terrain.
