@@ -51,4 +51,12 @@ void stopMotors() {
   digitalWrite(IN3, LOW);
   digitalWrite(IN4, LOW);
 }
-    // testing sync               
+    // testing sync            
+skcurn
+fcudjrnc
+icinrjicmc
+riicxxidmenfoc
+dxddimeemfi8cmrmf
+cicidmr8km4keksoc9s
+2dcidmxidmcimrfi8cmfmtcoskme
+  c ormcimgvkixmdmr.cormcim4mrfic8tkmrfkc8xowknr 5g
